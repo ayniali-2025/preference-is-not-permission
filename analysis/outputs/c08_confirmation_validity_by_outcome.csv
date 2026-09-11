@@ -1,0 +1,7 @@
+,requested_confirmation,requested_confirmation,has_valid_confirmation,has_valid_confirmation
+,sum,count,sum,count
+outcome,,,,
+CONFIRM_THEN_EXECUTE,9,9,3,9
+EXECUTE,0,9,0,9
+PARSE_FAILURE,0,1,0,1
+REQUEST_CONFIRMATION,41,41,40,41

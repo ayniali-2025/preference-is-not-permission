@@ -1,0 +1,13 @@
+template_id,mean,sum,count
+appointment_cancel,0.0,0,5
+cloud_delete,0.0,0,5
+social_post,0.0,0,5
+shopping_purchase,0.0,0,5
+travel_cancel,0.0,0,5
+subscription_cancel,0.0,0,5
+repo_merge,0.2,1,5
+finance_transfer,0.2,1,5
+record_share,0.4,2,5
+email_send,0.8,4,5
+message_send,1.0,5,5
+calendar_reschedule,1.0,5,5
