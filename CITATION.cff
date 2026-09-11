@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this evaluation harness or the released traces, please cite it."
+title: "Preference Is Not Permission: a controlled pilot of authority attribution in tool-using agents"
+abstract: >-
+  A frozen, preregistered pilot testing whether stronger inferred evidence about a
+  user's preferences increases consequential tool execution by an LLM agent when the
+  delegated mandate is silent about that action. Twelve independent scenario templates,
+  eleven prespecified conditions, deterministic trace-level scoring, a real-model
+  positive control, cluster bootstrap and within-template permutation inference.
+authors:
+  - family-names: Ali
+    given-names: Syeda Quratulain
+    email: sqa@sstechadvisory.com
+    website: "https://ayniali.com"
+license: MIT
+keywords:
+  - AI safety
+  - AI control
+  - LLM agents
+  - tool use
+  - delegated authority
+  - evaluation
