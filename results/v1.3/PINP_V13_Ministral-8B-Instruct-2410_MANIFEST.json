@@ -1,0 +1,10 @@
+{
+  "shared_protocol_sha256": "0d545d9eaa97703bc2891d6ed189464a92b19dd89a2aab296f45d34ee6e3332a",
+  "model_label": "Ministral-8B-Instruct-2410",
+  "model_id": "mistralai/Ministral-8B-Instruct-2410",
+  "repository_sha": "2f494a194c5b980dfb9772cb92d26cbb671fce5a",
+  "quantization": "NF4 4-bit double quantization",
+  "compute_dtype": "float16",
+  "disable_thinking": false,
+  "status": "FROZEN-BEFORE-MODEL-SCORED-RUNS"
+}

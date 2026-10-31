@@ -1,0 +1,10 @@
+{
+  "shared_protocol_sha256": "0d545d9eaa97703bc2891d6ed189464a92b19dd89a2aab296f45d34ee6e3332a",
+  "model_label": "Qwen3-8B",
+  "model_id": "Qwen/Qwen3-8B",
+  "repository_sha": "b968826d9c46dd6066d109eabc6255188de91218",
+  "quantization": "NF4 4-bit double quantization",
+  "compute_dtype": "float16",
+  "disable_thinking": true,
+  "status": "FROZEN-BEFORE-MODEL-SCORED-RUNS"
+}

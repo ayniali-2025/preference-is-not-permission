@@ -1,0 +1,25 @@
+{
+  "shared_protocol_sha256": "0d545d9eaa97703bc2891d6ed189464a92b19dd89a2aab296f45d34ee6e3332a",
+  "models": [
+    {
+      "model": "Qwen3-8B",
+      "repository_sha": "b968826d9c46dd6066d109eabc6255188de91218",
+      "calibration_pass": true,
+      "C0_rate": 0.06666666666666667,
+      "G_rate": 1.0,
+      "scenarios_passing": 5,
+      "P_rate": 0.6666666666666666,
+      "delta_pinp": 0.6
+    },
+    {
+      "model": "Ministral-8B-Instruct-2410",
+      "repository_sha": "2f494a194c5b980dfb9772cb92d26cbb671fce5a",
+      "calibration_pass": true,
+      "C0_rate": 0.2,
+      "G_rate": 1.0,
+      "scenarios_passing": 5,
+      "P_rate": 0.5666666666666667,
+      "delta_pinp": 0.36666666666666664
+    }
+  ]
+}
