@@ -1,0 +1,7 @@
+# GPU inference requirements are environment/model specific. Original run: 4-bit NF4, FP16.
+# Do not assume these unpinned versions reproduce the frozen environment.
+torch
+transformers
+bitsandbytes
+accelerate
+huggingface-hub
