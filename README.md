@@ -325,10 +325,10 @@ This separation between observation, diagnosis and subsequent design change is i
 
 ## Author
 
-**Syeda Quratulain Ali**
+**Prof. Dr. Sohail Khalid and Syeda Quratulain Ali**
 
-AI Researcher | Agentic AI Safety & Control | AI Security
+AI Researchers | Agentic AI Safety & Control | AI Security
 
-[ayniali.com](https://ayniali.com)
+https://www.linkedin.com/in/sohail-khalid/ [ayniali.com](https://ayniali.com) 
 
 For citation metadata, see [`CITATION.cff`](CITATION.cff).
