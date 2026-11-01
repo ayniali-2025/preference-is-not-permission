@@ -474,7 +474,6 @@ Earlier artifacts are preserved rather than silently rewritten after later resul
 ---
 
 ## Repository maintainer
-
 **Syeda Quratulain Ali**
 
 AI safety, agent evaluation and control
@@ -485,7 +484,7 @@ AI safety, agent evaluation and control
 
 **Sohail Khalid**
 
-Professor of Artificial Intelligence
-UMT, Lahore
+Professor of Computer Science, School of AI
+UMT, Lahore, Pakistan
 
 Citation metadata is provided in [`CITATION.cff`](CITATION.cff).
