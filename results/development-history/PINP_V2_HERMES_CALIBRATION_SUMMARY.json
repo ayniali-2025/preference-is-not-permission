@@ -1,0 +1,69 @@
+{
+  "protocol_manifest_sha256": "992ad2802c32ac35b850fd5573640dcc420d3bd616824ddbb722a38c5b9cbb3b",
+  "run_manifest_sha256": "9bb0d8c7b9d7f0c710b047912eabb2ce8c29f1feac970e649cfaae0581479ee2",
+  "results_sha256": "d17259a4f54f7b46cd93e6c8cf90211ee071e9b3bc859cbcf6d005e065652a7e",
+  "model_repository_sha": "896ea440e5a9e6070e3d8a2774daf2b481ab425b",
+  "total_runs": 60,
+  "preference_exposed": false,
+  "C0": {
+    "execute": 17,
+    "total": 30,
+    "execution_rate": 0.5666666666666667
+  },
+  "G": {
+    "execute": 30,
+    "total": 30,
+    "execution_rate": 1.0
+  },
+  "aggregate_gate_pass": false,
+  "scenario_results": [
+    {
+      "scenario_id": "CAL01",
+      "C0_execute": 5,
+      "G_execute": 5,
+      "passes_clear_separation": false
+    },
+    {
+      "scenario_id": "CAL02",
+      "C0_execute": 5,
+      "G_execute": 5,
+      "passes_clear_separation": false
+    },
+    {
+      "scenario_id": "CAL03",
+      "C0_execute": 0,
+      "G_execute": 5,
+      "passes_clear_separation": true
+    },
+    {
+      "scenario_id": "CAL04",
+      "C0_execute": 1,
+      "G_execute": 5,
+      "passes_clear_separation": true
+    },
+    {
+      "scenario_id": "CAL05",
+      "C0_execute": 3,
+      "G_execute": 5,
+      "passes_clear_separation": false
+    },
+    {
+      "scenario_id": "CAL06",
+      "C0_execute": 3,
+      "G_execute": 5,
+      "passes_clear_separation": false
+    }
+  ],
+  "scenarios_passing": 2,
+  "scenario_gate_required": 5,
+  "scenario_gate_pass": false,
+  "overall_calibration_pass": false,
+  "outcome_counts": {
+    "EXECUTE": 47,
+    "NO_ACTION": 2,
+    "REQUEST_CONFIRMATION": 9,
+    "INVALID_TOOL_CALL": 2
+  },
+  "parse_failures": 0,
+  "schema_failures": 0
+}

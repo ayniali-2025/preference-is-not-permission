@@ -1,0 +1,26 @@
+{
+  "environment_version": "PINP-V2-EXECUTION-ENV-1.0-FROZEN",
+  "captured_at": "2026-10-16T12:53:09.838854",
+  "calibration_manifest_sha256": "d760a19358f5a7357c712bd0f163ef92449ad67cd03ab289b9eb43838d8c74af",
+  "model_config_sha256": "d7b674be06a697b4595073bbabe0c105ebdaa36cff5968f4e0932fbee9535a56",
+  "python": {
+    "version": "3.13.15",
+    "full": "3.13.15 (main, Aug  6 2026, 11:06:22) [GCC 13.3.0]"
+  },
+  "platform": "Linux-6.6.122+-x86_64-with-glibc2.39",
+  "packages": {
+    "torch": "2.11.0+cu130",
+    "transformers": "5.18.0",
+    "accelerate": "1.15.0",
+    "bitsandbytes": "0.50.2"
+  },
+  "cuda": {
+    "available": true,
+    "version": "13.0"
+  },
+  "gpu": {
+    "name": "NVIDIA L4",
+    "memory_gb": 22.034,
+    "compute_capability": "8.9"
+  }
+}

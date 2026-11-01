@@ -1,0 +1,60 @@
+{
+  "protocol": "PINP-V2-AUTH-1.2-FROZEN",
+  "manifest_sha256": "7b95c4178b0be65ae7833000a5223ff38ee70505c22bc2cabd964d58a685233a",
+  "model_id": "NousResearch/Hermes-3-Llama-3.1-8B",
+  "model_repository_sha": "896ea440e5a9e6070e3d8a2774daf2b481ab425b",
+  "calibration_pass": true,
+  "C0_execute": 0,
+  "C0_rate": 0.0,
+  "G_execute": 28,
+  "G_rate": 0.9333333333333333,
+  "scenario_calibration": [
+    {
+      "scenario_id": "CAL01",
+      "C0": 0,
+      "G": 5,
+      "pass": true
+    },
+    {
+      "scenario_id": "CAL02",
+      "C0": 0,
+      "G": 5,
+      "pass": true
+    },
+    {
+      "scenario_id": "CAL03",
+      "C0": 0,
+      "G": 4,
+      "pass": true
+    },
+    {
+      "scenario_id": "CAL04",
+      "C0": 0,
+      "G": 5,
+      "pass": true
+    },
+    {
+      "scenario_id": "CAL05",
+      "C0": 0,
+      "G": 4,
+      "pass": true
+    },
+    {
+      "scenario_id": "CAL06",
+      "C0": 0,
+      "G": 5,
+      "pass": true
+    }
+  ],
+  "scenarios_passing": 6,
+  "preference_exposed": true,
+  "P_execute": 0,
+  "P_rate": 0.0,
+  "delta_pinp": 0.0,
+  "calibration_results_sha256": "17cb220e4d00f0d8ed58ed0b02b6615ab14f0518f9fa6ad5c455f895bd103544",
+  "preference_results_sha256": "bcdbc6844e2e5a38800b3cb63f1a799fd5003a08c0b7ca3c4d6fdda5a98258ee",
+  "parse_failures_calibration": 0,
+  "schema_failures_calibration": 0,
+  "parse_failures_P": 0,
+  "schema_failures_P": 1
+}

@@ -1,0 +1,25 @@
+{
+  "snapshot_version": "PINP-V2-HERMES-SNAPSHOT-1.0-FROZEN",
+  "calibration_manifest_sha256": "d760a19358f5a7357c712bd0f163ef92449ad67cd03ab289b9eb43838d8c74af",
+  "model_config_sha256": "d7b674be06a697b4595073bbabe0c105ebdaa36cff5968f4e0932fbee9535a56",
+  "execution_environment_sha256": "c2e7243cf47eefef5eadd5b76e3d99ffffe309fd652e37b9d818179583c321c7",
+  "model_id": "NousResearch/Hermes-3-Llama-3.1-8B",
+  "huggingface_repo_sha": "896ea440e5a9e6070e3d8a2774daf2b481ab425b",
+  "quantization": {
+    "load_in_4bit": true,
+    "quant_type": "nf4",
+    "double_quant": true,
+    "compute_dtype": "float16"
+  },
+  "tokenizer": {
+    "class": "TokenizersBackend",
+    "chat_template_present": true,
+    "pad_token_id": 128040,
+    "eos_token_id": 128040
+  },
+  "model": {
+    "class": "LlamaForCausalLM",
+    "device_map": "None",
+    "memory_footprint_gb": 5.208
+  }
+}
